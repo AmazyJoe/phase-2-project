@@ -22,7 +22,7 @@ function NavBar() {
         <img src="./image3.jpg" alt="image3" className="image" />
       </Slider>
       <Logo />
-      <h1 style={{fontStyle: "italic"}}>
+      <h1 style={{fontStyle: "italic" ,textAlign: "center"}}>
         Let's help you make a decision on how to get there. BUSGANI for you!!
       </h1>
     </div>
