@@ -3,8 +3,8 @@ import React from "react"
 function PopularDestinations(){
     return(
 <div className="col-md-3 destination-card">
-    
-<div className="col-md-3 destination-card" style={{width: '18rem'}}>
+ 
+<div className="card" style={{width: '18rem'}}>
   <img src="https://i.pinimg.com/564x/e1/ff/a5/e1ffa598db51959cb87c943b84542700.jpg" className="card-img-top" alt="..."/>
   <div className="card-body">
     <h5 className="card-title" style={{backgroundColor: "blue"}}>Mombasa</h5>
