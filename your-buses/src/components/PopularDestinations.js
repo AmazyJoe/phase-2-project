@@ -2,9 +2,101 @@ import React from "react"
 
 function PopularDestinations(){
     return(
-        <div>
-
-        </div>
+<div className="col-md-3 destination-card">
+    
+<div className="col-md-3 destination-card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/e1/ff/a5/e1ffa598db51959cb87c943b84542700.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Mombasa</h5>
+    <p className="card-text">You'd better visit this coastal town and experience it's cuisines and beaches.</p>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/79/71/15/797115e5adb1376013267ad555bdd6c7.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Nairobi</h5>
+    <p className="card-text">The only capital city with a wildlife conservance alongside New-York-ish skyscrappers in Upperhill.</p>
+</div>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://i.ytimg.com/vi/oi5RwXtMQqU/maxresdefault.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Lodwar</h5>
+    <p className="card-text">The Nothern gem with Dubai-like hypes on the sand dunes and one of the best tarmaced roads.</p>
+</div>
+ </div>
+ <div className="card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/43/27/3d/43273d0c27848b85b8c53633a1ca2200.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Kericho</h5>
+    <p className="card-text">Their tea farms are so therapeutic.Pure greatness from the land of tea and coffee.Must visit.</p>
+</div>
+ </div>
+ <div className="card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/a4/6b/03/a46b03cb15c7c0a9bd51c5531833022c.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Kisumu Dala</h5>
+    <p className="card-text">One city with pure greatness of NGEGE and MBUTA. Known to host very authentic people and a very beautiful lakeside city.</p>
+</div>
+ </div>
+ <div className="card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/91/17/4f/91174f112085fdd6f7813b96fd18d760.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Lamu</h5>
+    <p className="card-text">This is one city with rich culture:the swahili culture and festivals and their beaches are extra superb.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://i.pinimg.com/564x/79/7e/bc/797ebc844c3ab3e6292fb103b280ff48.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Nyahururu</h5>
+    <p className="card-text">Locally durbed NYAHE and a very popular town known for THE THOMPSONS FALLS.Real beauty that one.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://uzamart.com/wp-content/uploads/2021/01/Sebs-600x399.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Nakuru</h5>
+    <p className="card-text">Latest kid in the cities' block. Known for it's night life and hosting affluent persons in the society.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://usercontent.one/wp/www.eldoretleo.com/wp-content/uploads/2020/06/RupasMall-114.jpg?media=1674117819" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Eldoret</h5>
+    <p className="card-text">Home of athletes and also and upcoming city.The heart of rift valley and the home of champions..</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="http://www.uky.edu/~cfox/Students/Savalli/kakamega.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Kakamega</h5>
+    <p className="card-text">Home to Kakamega forest and conservancy. A great hiking,learning and chilling area.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://kisiifinest.co.ke/wp-content/uploads/2021/02/List-of-best-estates-in-Kisii-Town-Nyanchwa-Milimani-Menyinkwa-Mwembe-and-Jogoo.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Kisii</h5>
+    <p className="card-text">One of the busiest ,populated and fast growing towns in Nyanza. Very cool climate and suitable for farming.Also an upcoming sports hub.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://www.kenyanews.go.ke/wp-content/uploads/2022/08/DSC_9580-1024x630.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Migori</h5>
+    <p className="card-text">A cool business place this one and a stopover on your way to Tanzania just before Sirare boarder.</p>
+</div>
+</div>
+<div className="card" style={{width: '18rem'}}>
+  <img src="https://exploreafricaholidays.com/wp-content/uploads/2021/10/Lodges-Camps-1.jpg" className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title" style={{backgroundColor: "blue"}}>Nyeri</h5>
+    <p className="card-text">Nyeri is known to be a very cold place, housing the great Mt.Kenya and is a great tourism and chill hub .</p>
+</div>
+</div>
+ </div>
+ 
     )
 }
 export default PopularDestinations;
