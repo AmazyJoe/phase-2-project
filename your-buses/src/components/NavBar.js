@@ -1,6 +1,8 @@
 import React from "react";
 import Logo from "./logo";
 import Slider from 'react-slick';
+import PopularDestinations from "./Assets/PopularDestinations";
+import BusCollection from "./components/BusCollection";
 
 
 function NavBar() {
@@ -25,6 +27,8 @@ function NavBar() {
       <h1 style={{fontStyle: "italic" ,textAlign: "center"}}>
         Let's help you make a decision on how to get there. BUSGANI for you!!
       </h1>
+     <PopularDestinations/>
+      <BusCollection/>
     </div>
   );
 }
