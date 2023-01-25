@@ -3,7 +3,8 @@ import React from "react"
 function PopularDestinations(){
     return(
 <div className="col-md-3 destination-card">
- 
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  
 <div className="card" style={{width: '18rem'}}>
   <img src="https://i.pinimg.com/564x/e1/ff/a5/e1ffa598db51959cb87c943b84542700.jpg" className="card-img-top" alt="..."/>
   <div className="card-body">
@@ -93,8 +94,9 @@ function PopularDestinations(){
   <div className="card-body">
     <h5 className="card-title" style={{backgroundColor: "blue"}}>Nyeri</h5>
     <p className="card-text">Nyeri is known to be a very cold place, housing the great Mt.Kenya and is a great tourism and chill hub .</p>
-</div>
-</div>
+  </div>
+  </div>
+  </div>
  </div>
  
     )
