@@ -1,0 +1,8 @@
+
+.footer-container {
+    font-size: 2em; /*increase the font size*/
+    color: blue; /*change the color*/
+    padding: 10px; /*add padding*/
+    border-radius: 50%; /*round the corners*/
+    transition: all 0.3s; /*add transition effect*/
+}

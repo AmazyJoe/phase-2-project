@@ -16,6 +16,7 @@ function App() {
       <Route exact path="/" component={PopularDestinations} />
       <Route path="/buscollection" component={BusCollection} />
       <Route path="/key" component={Key} />
+      <Route exact path="/footer" component={Footer}/>
     </Switch>
 </BrowserRouter>
 

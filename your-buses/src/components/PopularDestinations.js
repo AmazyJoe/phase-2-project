@@ -62,7 +62,7 @@ function PopularDestinations(){
         </div>
         <div className="col">
            <div className="card" style={{width: '18rem'}}>
-             <img src="https://i.pinimg.com/564x/79/7e/bc/797ebc844c3ab3e6292fb103b280ff48.jpg" className="card-img-top" alt="..."/>
+             <img src="https://www.localguidesconnect.com/t5/image/serverpage/image-id/738154i485AF47505C77993/image-size/large?v=v2&px=999" className="card-img-top" alt="..."/>
             <div className="card-body">
               <h5 className="card-title" style={{color: "blue"}}>Nyahururu</h5>
               <p className="card-text">Locally durbed NYAHE and a very popular town known for THE THOMPSONS FALLS.Real beauty that one..</p>
@@ -89,7 +89,7 @@ function PopularDestinations(){
         </div>
         <div className="col">
            <div className="card" style={{width: '18rem'}}>
-             <img src="http://www.uky.edu/~cfox/Students/Savalli/kakamega.jpg" className="card-img-top" alt="..."/>
+             <img src="https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/fl_no_overflow,g_south,l_text:style_gothic2:%C2%A9%20CHRISTOPHER%20NZUVE,o_20,y_10/fl_no_overflow,g_center,l_watermark4,o_25,y_50/v1595684946/ilgftw4nc5shw3dfhm92.jpg" className="card-img-top" alt="..."/>
             <div className="card-body">
               <h5 className="card-title" style={{color: "blue"}}>Kakamega</h5>
               <p className="card-text">Home to Kakamega forest and conservancy. A great hiking,learning and chilling area.

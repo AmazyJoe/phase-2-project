@@ -28,9 +28,10 @@ function NavBar() {
   return (
     <div>
     
+    
       
   
-    <Logo />
+    <Logo /><h5>BusGaniEA</h5>
 
     
     
