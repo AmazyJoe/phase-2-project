@@ -31,7 +31,7 @@ function NavBar() {
     
       
   
-    <Logo /><h5>BusGaniEA</h5>
+    <Logo />
 
     
     
