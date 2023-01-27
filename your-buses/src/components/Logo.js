@@ -5,8 +5,10 @@ function Logo() {
         
   return (
     <div className="navbar">
+      <h3>~busgani@ea 🇪🇹</h3>
       <img className="circular-image"
-        src={logo} alt=""/>
+        src={logo} alt=""/><h3>~ busgani@ea 🇪🇹</h3>
+        
       
         
       
