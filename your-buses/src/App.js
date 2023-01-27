@@ -4,7 +4,7 @@ import PopularDestinations from "./components/PopularDestinations";
 import BusCollection from "./components/BusCollection";
 import Key from "./components/Key";
 import {Route,Switch,BrowserRouter} from "react-router-dom";
-
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -18,6 +18,8 @@ function App() {
       <Route path="/key" component={Key} />
     </Switch>
 </BrowserRouter>
+
+<Footer/>
 
     </div>
   );

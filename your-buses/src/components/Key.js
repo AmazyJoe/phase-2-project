@@ -117,27 +117,7 @@ import React from "react";
 
   </tbody>
 </table>
-<div className="background image">
-<ul>
-  <li>
-    Ena.AGHIMNP
-  </li>
-  <li>Dream.ABCDGIJ</li>
-  <li>TTahmeed.ABCDFGHIJ</li>
-  <li>Mash.ABCDEGN</li>
-  <li>kidia one.F</li>
-  <li>ModernCoast.AEGHILP</li>
-  <li>BusCar.ABCDE</li>
-  <li>EasyCoach.GHIMNP</li>
-  <li>Hodan.AB</li>
-  <li>Nurein.A</li>
-  <li>Tawakal.ABCDF</li>
-  <li>MoyaleStar.K</li>
-  <li>Mabruk.K</li>
-  <li>Liban.K</li>
-  <li>GuardianAngel.GHIMNP</li>
-</ul>
-</div>
+
 </div>
 
     )

@@ -31,9 +31,8 @@ function NavBar() {
       
   
     <Logo />
-<h1 style={{fontStyle: "italic" ,textAlign: "center"}}>
-        Let's help you make a decision on how to get there.It's BUSGANI for you!!
-      </h1>
+
+    
     
   
       <>

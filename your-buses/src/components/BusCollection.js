@@ -1,9 +1,8 @@
 import React from "react";
 function BusCollection(){
-    return(
-        
-<div>
-</div>
-    )
+    return(       
+<>
+</>
+  )
 }
 export default BusCollection;
