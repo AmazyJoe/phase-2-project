@@ -1,12 +1,12 @@
 {
-  "bots": [
+  "buses": [
     {
       "id": 1,
       "name": "Mash Poa",
       "fleet": "Scania",
       "rating": "⭐⭐⭐",
       "slogan": "Safety 1st",
-      "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1"
+      "bus_url": "https://ralingo.com/wp-content/uploads/2019/11/Mash-Poa-Bus.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "fleet": "Scania, MAN",
       "rating": "⭐⭐⭐",
       "slogan": "exemplary service",
-      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1"
+      "bus_url": "https://i0.wp.com/www.buskenya.com/wp-content/uploads/2022/11/IMG_20221121_183155.jpg?fit=1080%2C628&ssl=1"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "fleet": "Scania,Zhongtong,Yutong",
       "rating": "⭐⭐⭐",
       "slogan": "We Care",
-      "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/DzrRlEvXgAU_BaO.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "fleet": "Scania,kinglong,MAN",
       "rating": "⭐⭐⭐",
       "slogan": "Eagle above the rest",
-      "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png?size=300x300&set=set1"
+      "bus_url": "https://netstorage-tuko.akamaized.net/images/dfdcc30481550ee0.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "fleet": "Fuso,Mercedes",
       "rating": "⭐⭐⭐",
       "slogan": "Experience Dignity",
-      "avatar_url": "https://robohash.org/nisinequequas.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/Fh1UBb5WQAA-_KM?format=jpg&name=large"
     },
     {
       "id": 6,
@@ -46,14 +46,14 @@
       "health": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
       "slogan": "The best ahead of the rest",
-      "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1"
+      "bus_url": "https://i0.wp.com/www.kenyanbackpacker.com/wp-content/uploads/2022/07/guardian_bus_online_booking_contacts_and_routes.jpg?fit=1024%2C600&ssl=1"
     },
     {
       "id": 7,
       "name": "Mombasa Raha express",
       "fleet": "Scania, UD",
       "rating": "⭐⭐",
-      "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/Fkrc_7ZWIAAMiPM?format=jpg&name=4096x4096"
     },
     {
       "id": 8,
@@ -61,14 +61,14 @@
       "fleet": "Scania",
       "rating": "⭐⭐",
       "slogan": "Service beyond the obvious",
-      "avatar_url": "https://robohash.org/blanditiisautlaudantium.png?size=300x300&set=set1"
+      "bus_url": "https://www.safaribay.net/wp-content/uploads/2021/12/Hodan-Bus-Emirata.jpg"
     },
     {
       "id": 9,
       "name": "Nurein Bus",
       "fleet": "Mercedes,Scania",
       "rating": "⭐⭐⭐",
-      "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/FK5nKTVWQAIg0N6.jpg"
     },
     {
       "id": 10,
@@ -76,21 +76,21 @@
       "fleet": "Scania, ",
       "rating": "⭐⭐⭐",
       "slogan": "Desert Cruiser",
-      "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/FlSxR65WYAYwBug?format=jpg&name=900x900"
     },
     {
       "id": 11,
       "name": "Moyale Star",
       "fleet": "Scania",
       "rating": "⭐⭐⭐",
-      "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1"
+      "bus_url": "https://www.safaribay.net/wp-content/uploads/2020/03/Moyale-liner-bus-services..jpg"
     },
     {
       "id": 12,
       "name": "Kidia One express",
       "fleet": "Zhongtong",
       "rating": "⭐⭐⭐⭐",
-      "avatar_url": "https://robohash.org/eiusautnihil.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/E6bTCYOXsAUIBMh.jpg"
     },
     {
       "id": 13,
@@ -98,7 +98,7 @@
       "fleet": "Scania,Zhongtong,Yutong",
       "rating":"⭐⭐⭐" ,
       "slogan": "You dream, we fulfill",
-      "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1"
+      "bus_url": "https://www.buskenya.com/wp-content/uploads/2019/08/FB_IMG_1566448151753-1.jpg"
     },
     {
       "id": 14,
@@ -106,56 +106,57 @@
       "Scania": "scania,",
       "rating": "⭐⭐",
       "slogan": "we lead others follow",
-      "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/ElK_k5VXIAAGNCI.jpg"
     },
     {
       "id": 15,
       "name": "Liban Travellers",
       "fleet": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
-      "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/E8_h7ymX0A83QAA.jpg"
     },
     {
       "id": 16,
-      "name": "Royal Travellers",
+      "name": "Transline Classic",
       "fleet": "scania",
       "rating": "⭐⭐⭐",
-      "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1"
+      "slogan":"Travel Cool",
+      "bus_url": "https://9jatoday.com/wp-content/uploads/2021/10/images-2-2.jpeg"
     },
     {
       "id": 17,
       "name": "Greenline",
       "fleet": "scania,mercedes",
       "rating":"⭐⭐" ,
-      "avatar_url": "https://robohash.org/eiuslaborumaliquid.png?size=300x300&set=set1"
+      "bus_url": "https://netstorage-tuko.akamaized.net/images/05fedf93b7581741.jpg"
     },
     {
       "id": 18,
       "name": "Simba Coach",
       "Scania": "isuzu,UD,Scania",
       "rating": "⭐⭐",
-      "avatar_url": "https://robohash.org/autearem.png?size=300x300&set=set1"
+      "bus_url": "https://victormatara.com/wp-content/uploads/2017/10/FB_IMG_1508216016519.jpg"
     },
     {
       "id": 19,
       "name": "Trinity bus",
       "fleet": "Yutong",
       "rating": "⭐⭐⭐",
-      "avatar_url": "https://robohash.org/repellendusporrosint.png?size=300x300&set=set1"
+      "bus_url": "https://pbs.twimg.com/media/FQeiUj8X0AQqK_5.jpg"
     },
     {
       "id": 20,
       "name": "SR Classic",
       "fleet": "SCANIA,MAN,GOLDEN DRAGON",
       "rating": "⭐⭐⭐⭐",
-      "avatar_url": "https://robohash.org/ipsamexercitationemrem.png?size=300x300&set=set1"
+      "bus_url": "https://www.kenyanbackpacker.com/wp-content/uploads/2022/08/Classic-Coach.jpg"
     },
     {
       "id": 21,
       "name": "Modern Coast",
       "fleet": "DAEWOO,SCANIA,ZHONGTONG",
       "rating": "⭐⭐",
-      "image_url": "https://robohash.org/adipisciconsequaturnostrum.png?size=300x300&set=set1"
+      "bus_url": "https://netstorage-tuko.akamaized.net/images/8fa5c459e07d969c.jpg?imwidth=900"
       
     }
   ]
