@@ -5,7 +5,7 @@
       "name": "Mash Poa",
       "fleet": "Scania",
       "rating": "⭐⭐⭐",
-      "catchphrase": "1010010101001101100011000111101",
+      "slogan": "Safety 1st",
       "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Ena Coach",
       "fleet": "Scania, MAN",
       "rating": "⭐⭐⭐",
-      "catchphrase": "0110011100000100011110100110011000011001",
+      "slogan": "exemplary service",
       "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Tahmeed Express",
       "fleet": "Scania,Zhongtong,Yutong",
       "rating": "⭐⭐⭐",
-      "catchphrase": "1100101001110111110010011010110",
+      "slogan": "We Care",
       "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1"
     },
     {
@@ -29,7 +29,7 @@
       "name": "BusCar",
       "fleet": "Scania,kinglong,MAN",
       "rating": "⭐⭐⭐",
-      "catchphrase": "00011101001001000000101100001100110",
+      "slogan": "Eagle above the rest",
       "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png?size=300x300&set=set1"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Easy Coach",
       "fleet": "Fuso,Mercedes",
       "rating": "⭐⭐⭐",
-      "catchphrase": "010101111110111111101101010110010100101",
+      "slogan": "Experience Dignity",
       "avatar_url": "https://robohash.org/nisinequequas.png?size=300x300&set=set1"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Guardian Angel",
       "health": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
-      "catchphrase": "00111100111001011111110010110111",
+      "slogan": "The best ahead of the rest",
       "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1"
     },
     {
@@ -53,7 +53,6 @@
       "name": "Mombasa Raha express",
       "fleet": "Scania, UD",
       "rating": "⭐⭐",
-      "catchphrase": "0010110001011100111100101010101000",
       "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1"
     },
     {
@@ -61,15 +60,14 @@
       "name": "Hodan Bus",
       "fleet": "Scania",
       "rating": "⭐⭐",
-      "catchphrase": "1101111100001011111011011001011110010000",
+      "slogan": "Service beyond the obvious",
       "avatar_url": "https://robohash.org/blanditiisautlaudantium.png?size=300x300&set=set1"
     },
     {
       "id": 9,
       "name": "Nurein Bus",
-      "fleet": "Mercedes",
+      "fleet": "Mercedes,Scania",
       "rating": "⭐⭐⭐",
-      "catchphrase": "11010100110000100001110001100000010111101000001100",
       "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1"
     },
     {
@@ -77,7 +75,7 @@
       "name": "Mabruk Classic",
       "fleet": "Scania, ",
       "rating": "⭐⭐⭐",
-      "catchphrase": "011001001111001011110110011100001101101101000",
+      "slogan": "Desert Cruiser",
       "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1"
     },
     {
@@ -85,7 +83,6 @@
       "name": "Moyale Star",
       "fleet": "Scania",
       "rating": "⭐⭐⭐",
-      "catchphrase": "100000011001011111110100110001010101100111001100",
       "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1"
     },
     {
@@ -93,7 +90,6 @@
       "name": "Kidia One express",
       "fleet": "Zhongtong",
       "rating": "⭐⭐⭐⭐",
-      "catchphrase": "00010011100010000010110100001001010000101001",
       "avatar_url": "https://robohash.org/eiusautnihil.png?size=300x300&set=set1"
     },
     {
@@ -101,15 +97,15 @@
       "name": "Dreamline Express",
       "fleet": "Scania,Zhongtong,Yutong",
       "rating":"⭐⭐⭐" ,
-      "catchphrase": "0110101011111010011111110110001000001011",
+      "slogan": "You dream, we fulfill",
       "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1"
     },
     {
       "id": 14,
-      "name": "Randa Coach",
-      "Scania": "scania, yutong",
+      "name": "Coast Bus",
+      "Scania": "scania,",
       "rating": "⭐⭐",
-      "catchphrase": "001101000100001110001111010100110000000110000101",
+      "slogan": "we lead others follow",
       "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1"
     },
     {
@@ -117,7 +113,6 @@
       "name": "Liban Travellers",
       "fleet": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
-      "catchphrase": "010101111110111111010010110100101111100",
       "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1"
     },
     {
@@ -125,7 +120,6 @@
       "name": "Royal Travellers",
       "fleet": "scania",
       "rating": "⭐⭐⭐",
-      "catchphrase": "10001111010110110100111010011000011001100",
       "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1"
     },
     {
@@ -133,7 +127,6 @@
       "name": "Greenline",
       "fleet": "scania,mercedes",
       "rating":"⭐⭐" ,
-      "catchphrase": "01110101111110001001100000101011111001",
       "avatar_url": "https://robohash.org/eiuslaborumaliquid.png?size=300x300&set=set1"
     },
     {
@@ -141,7 +134,6 @@
       "name": "Simba Coach",
       "Scania": "isuzu,UD,Scania",
       "rating": "⭐⭐",
-      "catchphrase": "110001011001010111010010110110000011110011100",
       "avatar_url": "https://robohash.org/autearem.png?size=300x300&set=set1"
     },
     {
@@ -149,7 +141,6 @@
       "name": "Trinity bus",
       "fleet": "Yutong",
       "rating": "⭐⭐⭐",
-      "catchphrase": "00010100111100110110111001011111010011001",
       "avatar_url": "https://robohash.org/repellendusporrosint.png?size=300x300&set=set1"
     },
     {
@@ -157,7 +148,6 @@
       "name": "SR Classic",
       "fleet": "SCANIA,MAN,GOLDEN DRAGON",
       "rating": "⭐⭐⭐⭐",
-      "catchphrase": "001000111101100001000010000010000001000101",
       "avatar_url": "https://robohash.org/ipsamexercitationemrem.png?size=300x300&set=set1"
     },
     {
@@ -165,7 +155,6 @@
       "name": "Modern Coast",
       "fleet": "DAEWOO,SCANIA,ZHONGTONG",
       "rating": "⭐⭐",
-      "catchphrase": "1010100000001001101101111100100011000010",
       "image_url": "https://robohash.org/adipisciconsequaturnostrum.png?size=300x300&set=set1"
       
     }
