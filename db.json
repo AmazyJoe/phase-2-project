@@ -2,7 +2,7 @@
   "bots": [
     {
       "id": 1,
-      "name": "wHz-93",
+      "name": "Mash Poa",
       "health": 94,
       "damage": 20,
       "armor": 63,
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "name": "RyM-66",
+      "name": "Ena Coach",
       "health": 86,
       "damage": 36,
       "armor": 77,
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "name": "P-24",
+      "name": "Tahmeed Express",
       "health": 88,
       "damage": 25,
       "armor": 60,
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "name": "qq-69",
+      "name": "BusCar",
       "health": 74,
       "damage": 29,
       "armor": 95,
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "name": "G`t-65",
+      "name": "Easy Coach",
       "health": 62,
       "damage": 98,
       "armor": 31,
@@ -62,7 +62,7 @@
     },
     {
       "id": 6,
-      "name": "TI-09",
+      "name": "Guardian Angel",
       "health": 81,
       "damage": 39,
       "armor": 52,
@@ -74,7 +74,7 @@
     },
     {
       "id": 7,
-      "name": "XSf-63",
+      "name": "Mombasa Raha express",
       "health": 97,
       "damage": 26,
       "armor": 58,
@@ -86,7 +86,7 @@
     },
     {
       "id": 8,
-      "name": "m-76",
+      "name": "Hodan Bus",
       "health": 65,
       "damage": 90,
       "armor": 38,
@@ -98,7 +98,7 @@
     },
     {
       "id": 9,
-      "name": "hjk-40",
+      "name": "Nurein Bus",
       "health": 75,
       "damage": 84,
       "armor": 31,
@@ -110,7 +110,7 @@
     },
     {
       "id": 10,
-      "name": "Nb-70",
+      "name": "Mabruk Classic",
       "health": 64,
       "damage": 86,
       "armor": 28,
@@ -122,7 +122,7 @@
     },
     {
       "id": 11,
-      "name": "ya-81",
+      "name": "Moyale Star",
       "health": 56,
       "damage": 22,
       "armor": 92,
@@ -134,7 +134,7 @@
     },
     {
       "id": 12,
-      "name": "jDn-31",
+      "name": "Kidia One express",
       "health": 52,
       "damage": 93,
       "armor": 36,
@@ -146,7 +146,7 @@
     },
     {
       "id": 13,
-      "name": "x-27",
+      "name": "Dreamline Express",
       "health": 80,
       "damage": 22,
       "armor": 71,
@@ -158,7 +158,7 @@
     },
     {
       "id": 14,
-      "name": "lGp-46",
+      "name": "Randa Coach",
       "health": 67,
       "damage": 21,
       "armor": 82,
@@ -170,7 +170,7 @@
     },
     {
       "id": 15,
-      "name": "qr-06",
+      "name": "Liban Travellers",
       "health": 92,
       "damage": 37,
       "armor": 57,
@@ -182,7 +182,7 @@
     },
     {
       "id": 16,
-      "name": "o-44",
+      "name": "Royal Travellers",
       "health": 51,
       "damage": 90,
       "armor": 36,
@@ -194,7 +194,7 @@
     },
     {
       "id": 17,
-      "name": "VL-37",
+      "name": "Greenline",
       "health": 74,
       "damage": 37,
       "armor": 91,
@@ -206,7 +206,7 @@
     },
     {
       "id": 18,
-      "name": "s-96",
+      "name": "Simba Coach",
       "health": 56,
       "damage": 92,
       "armor": 38,
@@ -218,7 +218,7 @@
     },
     {
       "id": 19,
-      "name": "GQ-40",
+      "name": "Trinity bus",
       "health": 78,
       "damage": 37,
       "armor": 95,
@@ -230,7 +230,7 @@
     },
     {
       "id": 20,
-      "name": "\\-86",
+      "name": "SR Classic",
       "health": 56,
       "damage": 39,
       "armor": 82,
@@ -242,7 +242,7 @@
     },
     {
       "id": 21,
-      "name": "wa-81",
+      "name": "Modern Coast",
       "health": 49,
       "damage": 81,
       "armor": 39,
