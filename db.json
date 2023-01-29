@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mash Poa",
-      "health": 94,
+      "fleet": "Scania",
       "damage": 20,
       "armor": 63,
       "bot_class": "Support",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Ena Coach",
-      "health": 86,
+      "fleet": "Scania, MAN",
       "damage": 36,
       "armor": 77,
       "bot_class": "Medic",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "name": "Tahmeed Express",
-      "health": 88,
+      "fleet": "Scania,Zhongtong,Yutong",
       "damage": 25,
       "armor": 60,
       "bot_class": "Witch",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "name": "BusCar",
-      "health": 74,
+      "fleet": "Scania,kinglong,MAN",
       "damage": 29,
       "armor": 95,
       "bot_class": "Defender",
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "name": "Easy Coach",
-      "health": 62,
+      "fleet": "Fuso,Mercedes",
       "damage": 98,
       "armor": 31,
       "bot_class": "Assault",
@@ -63,7 +63,7 @@
     {
       "id": 6,
       "name": "Guardian Angel",
-      "health": 81,
+      "health": "Scania, ISUZU",
       "damage": 39,
       "armor": 52,
       "bot_class": "Support",
@@ -75,7 +75,7 @@
     {
       "id": 7,
       "name": "Mombasa Raha express",
-      "health": 97,
+      "fleet": "Scania, UD",
       "damage": 26,
       "armor": 58,
       "bot_class": "Support",
@@ -87,7 +87,7 @@
     {
       "id": 8,
       "name": "Hodan Bus",
-      "health": 65,
+      "fleet": "Scania",
       "damage": 90,
       "armor": 38,
       "bot_class": "Assault",
@@ -99,7 +99,7 @@
     {
       "id": 9,
       "name": "Nurein Bus",
-      "health": 75,
+      "fleet": "Mercedes",
       "damage": 84,
       "armor": 31,
       "bot_class": "Witch",
@@ -111,7 +111,7 @@
     {
       "id": 10,
       "name": "Mabruk Classic",
-      "health": 64,
+      "fleet": "Scania, ",
       "damage": 86,
       "armor": 28,
       "bot_class": "Assault",
@@ -123,7 +123,7 @@
     {
       "id": 11,
       "name": "Moyale Star",
-      "health": 56,
+      "fleet": "Scania",
       "damage": 22,
       "armor": 92,
       "bot_class": "Defender",
@@ -135,7 +135,7 @@
     {
       "id": 12,
       "name": "Kidia One express",
-      "health": 52,
+      "fleet": "Zhongtong",
       "damage": 93,
       "armor": 36,
       "bot_class": "Assault",
@@ -147,7 +147,7 @@
     {
       "id": 13,
       "name": "Dreamline Express",
-      "health": 80,
+      "fleet": "Scania,Zhongtong,Yutong",
       "damage": 22,
       "armor": 71,
       "bot_class": "Medic",
@@ -159,7 +159,7 @@
     {
       "id": 14,
       "name": "Randa Coach",
-      "health": 67,
+      "Scania": "scania, yutong",
       "damage": 21,
       "armor": 82,
       "bot_class": "Medic",
@@ -171,7 +171,7 @@
     {
       "id": 15,
       "name": "Liban Travellers",
-      "health": 92,
+      "fleet": "Scania, ISUZU",
       "damage": 37,
       "armor": 57,
       "bot_class": "Captain",
@@ -183,7 +183,7 @@
     {
       "id": 16,
       "name": "Royal Travellers",
-      "health": 51,
+      "fleet": "scania",
       "damage": 90,
       "armor": 36,
       "bot_class": "Assault",
@@ -195,7 +195,7 @@
     {
       "id": 17,
       "name": "Greenline",
-      "health": 74,
+      "fleet": "scania,mercedes",
       "damage": 37,
       "armor": 91,
       "bot_class": "Defender",
@@ -207,7 +207,7 @@
     {
       "id": 18,
       "name": "Simba Coach",
-      "health": 56,
+      "Scania": "isuzu,UD,Scania",
       "damage": 92,
       "armor": 38,
       "bot_class": "Witch",
@@ -219,7 +219,7 @@
     {
       "id": 19,
       "name": "Trinity bus",
-      "health": 78,
+      "fleet": "Yutong",
       "damage": 37,
       "armor": 95,
       "bot_class": "Defender",
@@ -231,7 +231,7 @@
     {
       "id": 20,
       "name": "SR Classic",
-      "health": 56,
+      "fleet": "SCANIA,MAN,GOLDEN DRAGON",
       "damage": 39,
       "armor": 82,
       "bot_class": "Defender",
@@ -243,7 +243,7 @@
     {
       "id": 21,
       "name": "Modern Coast",
-      "health": 49,
+      "fleet": "DAEWOO,SCANIA,ZHONGTONG",
       "damage": 81,
       "armor": 39,
       "bot_class": "Assault",
