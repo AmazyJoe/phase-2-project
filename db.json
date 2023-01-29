@@ -38,12 +38,12 @@
       "fleet": "Fuso,Mercedes",
       "rating": "⭐⭐⭐",
       "slogan": "Experience Dignity",
-      "bus_url": "https://pbs.twimg.com/media/Fh1UBb5WQAA-_KM?format=jpg&name=large"
+      "bus_url": "https://i.ytimg.com/vi/qFVSoysJot4/maxresdefault.jpg"
     },
     {
       "id": 6,
       "name": "Guardian Angel",
-      "health": "Scania, ISUZU",
+      "fleet": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
       "slogan": "The best ahead of the rest",
       "bus_url": "https://i0.wp.com/www.kenyanbackpacker.com/wp-content/uploads/2022/07/guardian_bus_online_booking_contacts_and_routes.jpg?fit=1024%2C600&ssl=1"
@@ -53,7 +53,7 @@
       "name": "Mombasa Raha express",
       "fleet": "Scania, UD",
       "rating": "⭐⭐",
-      "bus_url": "https://pbs.twimg.com/media/Fkrc_7ZWIAAMiPM?format=jpg&name=4096x4096"
+      "bus_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5nB8u2qAMhrhCxVjXkBwscU5Qmx4bYdkoBHHAryakhMPWRZ5LvTjsWK7_ZXhXP22co8&usqp=CAU"
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
       "id": 14,
       "name": "Coast Bus",
       "Scania": "scania,",
-      "rating": "⭐⭐",
+      "rating":"⭐⭐⭐" ,
       "slogan": "we lead others follow",
       "bus_url": "https://pbs.twimg.com/media/ElK_k5VXIAAGNCI.jpg"
     },
