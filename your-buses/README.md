@@ -1,1 +1,2 @@
 Let me give you an example of the idea I have here.Ever plied the Juja -NRB route?Well, If you have, you must have met LOFA travels and Super Metro. People mostly prefer Super Metro to any other because of many reasons ie the music ,speed ,reliability etc. It's the same case with this busgani app. It should help you make your decisions but over long-distance journeys.
+This is in line with a gap I am trying to fill, one  that I have experienced as an enthusiast
