@@ -1,3 +1,5 @@
 Let me give you an example of the idea I have here.Ever plied the Juja -NRB route?Well, If you have, you must have met LOFA travels and Super Metro. People mostly prefer Super Metro to any other because of many reasons ie the music ,speed ,reliability etc. It's the same case with this busgani app. It should help you make your decisions but over long-distance journeys.
 This is in line with a gap I am trying to fill, one  that I have experienced as an enthusiast
 In designing the website, we use FIGMA first and also listen from our classmates and friends on the ideas they have . Also keen ear to TMs advise.The website has a theme of blue,black and white mainly and a bit of purple.We route the page and we will be having a landing page showing various destinations and also another page where our buses are fetched and another for key.
+For our server, we will create our own db.json to suit what is in mind and we will fetch it so that we can display it.
+We will also add in a favourites area so that one can enlist their favourite buses and a search area too.This will use keys and route codes.
