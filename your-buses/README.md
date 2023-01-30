@@ -1,7 +1,7 @@
 Written and whole idea owned by Joseph Oluoch.
 
 The project name here is BUSGANI. Having an issue with what bus or shuttle to use in traveling?well,
-et me give you an example of the idea I have here.Ever plied the Juja -NRB route?Well, If you have, you must have met LOFA travels and Super Metro. People mostly prefer Super Metro to any other because of many reasons ie the music ,speed ,reliability etc. It's the same case with this busgani app. It should help you make your decisions but over long-distance journeys.
+let me give you an example of the idea I have here.Ever plied the Juja -NRB route?Well, If you have, you must have met LOFA travels and Super Metro. People mostly prefer Super Metro to any other because of many reasons ie the music ,speed ,reliability etc. It's the same case with this busgani app. It should help you make your decisions but over long-distance journeys,it should give you a reason to use a bus while convinced.It should allow you view reviews and ammenities of buses and also you get to book the bus online on the spot.
 
 
 This is in line with a gap I am trying to fill, one  that I have experienced as an enthusiast.
