@@ -10,7 +10,7 @@ In designing the website, we use FIGMA first and also listen from our classmates
 
 For our server, we will create our own db.json to suit what is in mind and we will fetch it so that we can display it.We also populate the db.json in a custom tailored way to  suit our needs.We then use the fetch and map methods to actually perform a GET ,POST request so that our data is displayed on our webpage.
 
-We will also add in a favourites area so that one can enlist their favourite buses and a search area too.This will use keys and route codes.
+We will also add in a favourites area so that one can enlist their favourite buses and a search area too.This will use keys component and route codes within the very same component..
 
 I've also created socials on the same and added them to the footer for communication with clients.
 In the app, I have 6 components each with a unique function as I will explain.We will have the components:BusCollection,Footer,Key,Logo,NavBar and PopularDestinations.
