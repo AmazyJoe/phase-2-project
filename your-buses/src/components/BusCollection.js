@@ -4,7 +4,7 @@ import { useState,useEffect } from "react";
 
 function BusCollection(){
   const [buses,setBuses]=useState([]);
-   const [error, setError] = useState(null);
+  const [error, setError] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [favourites, setFavourites] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
@@ -49,18 +49,18 @@ function BusCollection(){
       <form>
         <input type="text" placeholder="Search bus name" onChange={handleSearch} value={searchTerm} />
       </form>
-      <div className="row">
+    <div className="row">
         <h1>Bus collection</h1>
         {filteredBuses.map((bus) => (
    <div className="buses" key={bus.id} style={{display: 'inline-block', width: '30%'}}>
-    <img src={bus.bus_url} alt={bus.name} style={{width: '100%', height: 'auto'}} />
-    <h1>Name:{bus.name}</h1>
-    <h2>slogan:{bus.slogan}</h2>
-    <p>fleet:{bus.fleet}</p>
-    <h4>rating:{bus.rating}</h4>
-    <button onClick={() => handleEnlist(bus)}>
-      🎆🎇
-    </button>
+        <img src={bus.bus_url} alt={bus.name} style={{width: '100%', height: 'auto'}} />
+        <h1>Name:{bus.name}</h1>
+       <h2>slogan:{bus.slogan}</h2>
+        <h4>fleet:{bus.fleet}</h4>
+        <h5>rating:{bus.rating}</h5>
+        <button onClick={() => handleEnlist(bus)}>
+           🎆🎇
+        </button>
    </div>
 ))}
       </div>

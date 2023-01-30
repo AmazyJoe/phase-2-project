@@ -19,51 +19,42 @@ const linkStyles = {
 function NavBar() {
   return (
     <div>
-    
-    
-      
-  
     <Logo />
-
-    
-    
-  
       <>
       </>
-    <NavLink
-    to="/"
-    exact
-    style={linkStyles}  
-      activeStyle={{
-        background: "darkblue",
-      }}
-     >
-     PopularDestinations 
-     </NavLink>
      <NavLink
-     to="/buscollection"
-     exact
-     style={linkStyles}
-     activeStyle={{
-      background:"darkblue",
-     }}
-    >
-      BusCollection
-    </NavLink>
-    <NavLink
-    to="/key"
-    exact
-    style={linkStyles}
-    activeStyle={{
-      background:"darkblue",
-      
-    }}
-    >
-      key
-    </NavLink>
-    
-    
+          to="/"
+          exact
+          style={linkStyles}  
+          activeStyle={{
+          background: "darkblue",
+        }}
+     >
+       PopularDestinations 
+     </NavLink>
 
+     <NavLink
+        to="/buscollection"
+        exact
+        style={linkStyles}
+        activeStyle={{
+        background:"darkblue",
+       }}
+      >
+        BusCollection
+      </NavLink>
+
+      <NavLink
+          to="/key"
+          exact
+          style={linkStyles}
+          activeStyle={{
+          background:"darkblue",
+         }}
+      >
+          key
+      </NavLink>
+    
     </div>
   );
 }

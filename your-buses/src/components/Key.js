@@ -1,46 +1,46 @@
 import React from "react";
  function Key(){
     return(
-        <div>
-            <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">ID</th>
-      <th scope="col">From</th>
-      <th scope="col">To</th>
-      <th scope="col">Route  code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Nairobi</td>
-      <td>Mombasa</td>
-      <td>A</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Nairobi</td>
-      <td>Malindi</td>
-      <td>B</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td >Nairobi</td>
-      <td>Lamu</td>
-      <td>C</td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>Nairobi</td>
-      <td>Kilifi</td>
-      <td>D</td>
+<div>
+  <table class="table">
+    <thead>
+      <tr>
+       <th scope="col">ID</th>
+       <th scope="col">From</th>
+       <th scope="col">To</th>
+       <th scope="col">Route  code</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr>
+       <th scope="row">1</th>
+       <td>Nairobi</td>
+       <td>Mombasa</td>
+       <td>A</td>
+     </tr>
+     <tr>
+       <th scope="row">2</th>
+       <td>Nairobi</td>
+       <td>Malindi</td>
+       <td>B</td>
+     </tr>
+     <tr>
+       <th scope="row">3</th>
+       <td >Nairobi</td>
+       <td>Lamu</td>
+       <td>C</td>
     </tr>
     <tr>
-      <th scope="row">5</th>
-      <td >Nairobi</td>
-      <td>Kampala</td>
-      <td>E</td>
+       <th scope="row">4</th>
+       <td>Nairobi</td>
+       <td>Kilifi</td>
+       <td>D</td>
+    </tr>
+    <tr>
+       <th scope="row">5</th>
+       <td >Nairobi</td>
+       <td>Kampala</td>
+       <td>E</td>
     </tr>
     <tr>
       <th scope="row">6</th>
@@ -49,10 +49,10 @@ import React from "react";
       <td>F</td>
     </tr>
     <tr>
-      <th scope="row">7</th>
-      <td >Nairobi</td>
-      <td>Kisumu</td>
-      <td>G</td>
+       <th scope="row">7</th>
+       <td >Nairobi</td>
+       <td>Kisumu</td>
+       <td>G</td>
     </tr>
     <tr>
       <th scope="row">8</th>
@@ -113,10 +113,10 @@ import React from "react";
       <td >Nairobi</td>
       <td>Zambia</td>
       <td>R</td>
-    </tr>
+     </tr>
 
-  </tbody>
-</table>
+   </tbody>
+  </table>
 
 </div>
 
