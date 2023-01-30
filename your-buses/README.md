@@ -3,4 +3,6 @@ This is in line with a gap I am trying to fill, one  that I have experienced as 
 In designing the website, we use FIGMA first and also listen from our classmates and friends on the ideas they have . Also keen ear to TMs advise.The website has a theme of blue,black and white mainly and a bit of purple.We route the page and we will be having a landing page showing various destinations and also another page where our buses are fetched and another for key.
 For our server, we will create our own db.json to suit what is in mind and we will fetch it so that we can display it.
 We will also add in a favourites area so that one can enlist their favourite buses and a search area too.This will use keys and route codes.
-I've also created socials on the same and added them to the footer for communication withy clients.
+I've also created socials on the same and added them to the footer for communication with clients.
+In the app, I have 6 components each with a unique function as I will explain.We will have the components:BusCollection,Footer,Key,Logo,NavBar and PopularDestinations.
+These components are supposed to help us piece everything that wil make the application meet it's main function of helping a user have sufficient information to make a decision on how and why to travel using a particular bus or shuttle.We will also add in a blog section for the same.
