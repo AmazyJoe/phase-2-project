@@ -1,14 +1,6 @@
 import React from "react";
 import Logo from "./Logo";
 import {NavLink} from "react-router-dom";
-//import buscar from '../assets/buscar.png';
-//import mash from '../assets/mash.png';
-//import EnaCoach from '../assets/EnaCoach.jpg'
-//import CoastBus from '../assets/CoastBus.jpg';
-//import Hodan from '../assets/Hodan.jpg';
-//import Tahmeed from '../assets/Tahmeed.jpg';
-//import Dreamline from '../assets/Dreamline.jpg';
-//import coastair from '../assets/coast air.jpg'
 
 
 const linkStyles = {
@@ -75,4 +67,5 @@ function NavBar() {
     </div>
   );
 }
+
 export default NavBar;

@@ -4,16 +4,18 @@ import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
 const Footer = () => {
     return (
         <div className="footer-container" style={{
+            //  position: "fixed",
+            //  bottom: 0,
+            //  width: "100%",
              fontSize: "3em", 
-          color: "darkblue", 
-           padding: "10px", 
-            borderRadius: "50%", 
-            transition: "all 0.3s", 
-           display: "flex",
-           justifyContent: "space-around", 
-           alignItems: "center",
-           
-           textAlign:"center"
+             color: "darkblue", 
+             padding: "10px", 
+             borderRadius: "50%", 
+             transition: "all 0.3s", 
+             display: "flex",
+            justifyContent: "space-around", 
+            alignItems: "center",
+            textAlign:"center"
         }}>
 
             
