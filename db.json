@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "BusCar",
-      "fleet": "Scania,kinglong,MAN",
+      "fleet": "Scania,MAN",
       "rating": "⭐⭐⭐",
       "slogan": "Eagle above the rest",
       "bus_url": "https://netstorage-tuko.akamaized.net/images/dfdcc30481550ee0.jpg"
@@ -95,7 +95,7 @@
     {
       "id": 13,
       "name": "Dreamline Express",
-      "fleet": "Scania,Zhongtong,Yutong",
+      "fleet": "Scania,Z.T,Yutong",
       "rating":"⭐⭐⭐" ,
       "slogan": "You dream, we fulfill",
       "bus_url": "https://www.buskenya.com/wp-content/uploads/2019/08/FB_IMG_1566448151753-1.jpg"
@@ -118,7 +118,7 @@
     {
       "id": 16,
       "name": "Transline Classic",
-      "fleet": "scania",
+      "fleet": "Scania, ISUZU",
       "rating": "⭐⭐⭐",
       "slogan":"Travel Cool",
       "bus_url": "https://9jatoday.com/wp-content/uploads/2021/10/images-2-2.jpeg"
@@ -147,14 +147,14 @@
     {
       "id": 20,
       "name": "SR Classic",
-      "fleet": "SCANIA,MAN,GOLDEN DRAGON",
+      "fleet": "SCANIA,MAN,G.D",
       "rating": "⭐⭐⭐⭐",
       "bus_url": "https://www.kenyanbackpacker.com/wp-content/uploads/2022/08/Classic-Coach.jpg"
     },
     {
       "id": 21,
       "name": "Modern Coast",
-      "fleet": "DAEWOO,SCANIA,ZHONGTONG",
+      "fleet": "DAEWOO,SCANIA,Z.T",
       "rating": "⭐⭐",
       "bus_url": "https://netstorage-tuko.akamaized.net/images/8fa5c459e07d969c.jpg?imwidth=900"
       

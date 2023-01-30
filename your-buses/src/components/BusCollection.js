@@ -54,12 +54,12 @@ function BusCollection(){
         {filteredBuses.map((bus) => (
    <div className="buses" key={bus.id} style={{display: 'inline-block', width: '30%'}}>
     <img src={bus.bus_url} alt={bus.name} style={{width: '100%', height: 'auto'}} />
-    <h2>Name:{bus.name}</h2>
-    <p>slogan:{bus.slogan}</p>
-    <h1>fleet:{bus.fleet}</h1>
-    <h1>rating:{bus.rating}</h1>
+    <h1>Name:{bus.name}</h1>
+    <h2>slogan:{bus.slogan}</h2>
+    <p>fleet:{bus.fleet}</p>
+    <h4>rating:{bus.rating}</h4>
     <button onClick={() => handleEnlist(bus)}>
-      Add to your favourites
+      🎆🎇
     </button>
    </div>
 ))}
