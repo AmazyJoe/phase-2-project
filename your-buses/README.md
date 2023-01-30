@@ -8,6 +8,8 @@ This is in line with a gap I am trying to fill, one  that I have experienced as 
 
 In designing the website, we use FIGMA first and also listen from our classmates and friends on the ideas they have . Also keen ear to TMs advise.The website has a theme of blue,black and white mainly and a bit of purple.We route the page and we will be having a landing page showing various destinations and also another page where our buses are fetched and another for key.
 
+We also have BootStrap imported because we are using it for our tables and cards together with its stylings and JS functionalities.
+
 For our server, we will create our own db.json to suit what is in mind and we will fetch it so that we can display it.We also populate the db.json in a custom tailored way to  suit our needs.We then use the fetch and map methods to actually perform a GET ,POST request so that our data is displayed on our webpage.
 
 We will also add in a favourites area so that one can enlist their favourite buses and a search area too.This will use keys component and route codes within the very same component..
@@ -24,7 +26,7 @@ The Key component is where we will have the table showing how we give route code
 
 The Logo compnent is where we get our logo from and we instead import it to our Navbar component that is more of like the head of the app and gives directions.Our logo is imported from the PC and thus we have an assets folder for that.
 
-Just to mention,all the components are imported into the APP.JS which is the main component and it's where data is displayed for the user on the webpage,determines the order also that's why <Navbar/>must come first followed by the rest.
+Just to mention,all the components are imported into the APP.JS which is the main component and it's where data is displayed for the user on the webpage,determines the order also that's why (<Navbar/>)must come first followed by the rest.
 
 Within our Navbar and our index.js is where we do the routing with instructions from week 2 Day 7 code along.
 The NavBar component is where we design our page Navigation.Helps the user navigate to wherever they want to.
