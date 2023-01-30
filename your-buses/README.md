@@ -34,5 +34,5 @@ The PopularDestinations is the last component where I have designed it to be the
 
 The biggest work still is on how to add in routes, view detailed information on the buses plying that route and also get to book those buses .Eventually, get to see how this ends with monetizing it.Should be fun.
 
-This is clean and original work from the enthusiast himself.Pegging any future success to giving a keen ear to any reviews.
+This is clean and original work from the enthusiast himself.Pegging any future success to giving a keen ear to any reviews especially from my classmate and my Technical Mentor.
 
