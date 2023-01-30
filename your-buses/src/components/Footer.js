@@ -17,7 +17,7 @@ const Footer = () => {
             alignItems: "center",
             textAlign:"center"
         }}>
-             <a href="https://www.facebook.com/profile.php?id=100090052710427" className="footer-container">
+            <a href="https://www.facebook.com/profile.php?id=100090052710427" className="footer-container">
               <FaFacebook/>
             </a>
             <a href="https://twitter.com/BusGaniEA" className="footer-container">
