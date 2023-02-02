@@ -18,7 +18,7 @@ const linkStyles = {
 
 function NavBar() {
   return (
-    <div>
+    <div style={{backgroundColor: "grey"}}>
     <Logo />
       <>
       </>

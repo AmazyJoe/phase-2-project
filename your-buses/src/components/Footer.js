@@ -3,19 +3,20 @@ import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
 
 const Footer = () => {
     return (
-        <div className="footer-container" style={{
+        <div  className="footer-container" style={{
         //     position: "fixed",
         //  bottom: 0,
         //  width: "100%",
-            fontSize: "3em", 
+            fontSize: "2em", 
             color: "darkblue", 
-            padding: "10px", 
-            borderRadius: "50%", 
+            padding: "6px", 
+            borderRadius: "30%", 
             transition: "all 0.3s", 
             display: "flex",
-            justifyContent: "space-around", 
+            justifyContent: "right", 
             alignItems: "center",
-            textAlign:"center"
+            textAlign:"center",
+    
         }}>
             <a href="https://www.facebook.com/profile.php?id=100090052710427" className="footer-container">
               <FaFacebook/>
@@ -26,9 +27,12 @@ const Footer = () => {
             <a href="https://www.instagram.com/busganiea/" className="footer-container">
               <FaInstagram />
             </a>
+
+           <div style={{textAlign:""}}>
             <a href="mailto:busganiea@gmail.com" className="email-link">
                 busganiea@gmail.com
             </a>
+          </div>
          </div>
     );
 }

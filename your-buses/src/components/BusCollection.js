@@ -29,7 +29,8 @@ function BusCollection(){
     return <p>Loading...</p>;
   }
 
-  const handleEnlist = (bot) => {
+  const handleFavorite = (bot) => {
+  
     setFavourites([...favourites, bot]);
   };
   const handleSearch = (event) => {
@@ -45,21 +46,19 @@ function BusCollection(){
     
   </div>
   <div className="bus-card-container">
-    <div className="ui four column grid">
+    <div style={{backgroundColor: "grey"}} className="ui four column grid">
       <form>
         <input type="text" placeholder="Search bus name" onChange={handleSearch} value={searchTerm} />
       </form>
-    <div className="row">
+    <div style={{backgroundColor: "grey"}}className="row">
         <h1>Bus collection</h1>
         {filteredBuses.map((bus) => (
-   <div className="buses" key={bus.id} style={{display: 'inline-block', width: '30%'}}>
+   <div className="buses" key={bus.id} style={{display: 'inline-block', width: '30%',backgroundColor:"grey"}}>
         <img src={bus.bus_url} alt={bus.name} style={{width: '100%', height: 'auto'}} />
-        <h1 style={{fontSize: "27px"}}>Name:{bus.name}</h1>
+        <h1 style={{fontSize: "27px",textDecorationColor:"black"}}>Name:{bus.name}</h1>
         <h4 style={{fontsize: "15px"}}>slogan:{bus.slogan}</h4>
-        <h4>fleet:{bus.fleet}</h4>
-        <h5>rating:{bus.rating}</h5>
-        <button onClick={() => handleEnlist(bus)}>
-           🎆🎇
+        <button onClick={() => handleFavorite(bus)}>
+          view
         </button>
    </div>
 ))}
